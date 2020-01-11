@@ -1,0 +1,1 @@
+<p>Cảm ơn bạn đã gởi email cho chúng tôi. Sau đây là link lấy lại mật khẩu: <a href="{{$data}}" title="">Click Vô Để Tới Trang</a></p>

@@ -1,0 +1,32 @@
+$request->segment(): nó sẻ trả về url cho bạn. vd: mmm/add/1 nếu (2) -> add/1 còn (1) - add
+
+hiển thị 1  hàng: text-overflow: ellipsis; white-sspace: nowrap; overflow: hidden.Us
+
+php artisan module:make-controller AdminUserController Admin   tạo controller trong module
+
+hàm except() giúp lưu all() request vô sql ngoại trừ(''); 
+
+@php
+echo \Carbon\Carbon::createFromTimeStamp(strtotime($r_item->created_at))->diffForHumans();
+@endphp
+
+// hiển thị tiếng việt
+\Carbon\Carbon::setLocale('vi'); 
+echo \Carbon\Carbon::createFromTimeStamp(strtotime($art_item->created_at))->diffForHumans();
+@endphp
+
+simplepaginate() tốc đọc xử lý nhanh hơn
+
+- lọc sản phẩm
+request()->fullUrlWithQuery(['y' => 'mx+c'])
+
+- xử lý json về 1 mảng
+datahtml = JSON.parse(data.replace(/&quot;/g,'"'));
+- enturst laravel: dùng để phần quyền admin
+- không lấy trùng khi query 
+distinct()
+---------------
+hỏi đáp 
+
+khi mua hàng mà sản phẩm bị âm
+khi 2 người mua nhưng t chưa kịp xử lý

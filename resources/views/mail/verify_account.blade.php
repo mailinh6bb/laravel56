@@ -1,0 +1,1 @@
+<p>Cảm ơn bạn đã đăng ký tài khoản. Sau đây là link kích hoạt tài khoản: <a href="{{$data}}" title="">Click Vô Để Tới Trang</a></p>
